@@ -1,0 +1,10 @@
+25.02.2024 18:05:04,602 INFO  LoginPage:41 - Username is entered in username text box
+25.02.2024 18:05:04,757 INFO  LoginPage:43 - Password is entered in username text box
+25.02.2024 18:05:05,402 INFO  LoginPage:45 - Login button is Clicked
+25.02.2024 18:05:05,511 INFO  HomePage:42 - Myaccount button is clicked
+25.02.2024 18:05:06,022 INFO  HomePage:44 - Logout button is clicked
+25.02.2024 23:59:29,916 INFO  LoginPage:43 - Username is entered in username text box
+25.02.2024 23:59:30,481 INFO  LoginPage:46 - Password is entered in username text box
+25.02.2024 23:59:31,307 INFO  LoginPage:49 - Login button is Clicked
+25.02.2024 23:59:31,594 INFO  HomePage:44 - Myaccount button is clicked
+25.02.2024 23:59:32,357 INFO  HomePage:47 - Logout button is clicked
