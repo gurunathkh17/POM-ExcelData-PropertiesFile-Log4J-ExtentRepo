@@ -135,7 +135,7 @@
 					<version>3.2.5</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>testngMavenTestPhaseDemo.xml</suiteXmlFile>
+							<suiteXmlFile>testngTutorialsNinjaApp.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
